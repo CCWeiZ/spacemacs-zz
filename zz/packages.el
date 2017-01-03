@@ -32,8 +32,6 @@
 (defconst zz-packages
   '(
     cc-mode
-    rtags
-    cmake-ide
     )
   "The list of Lisp packages required by the zz layer.
 
